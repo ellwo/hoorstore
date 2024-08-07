@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763389861619",
+    "project_id": "hoor-store-8c045",
+    "storage_bucket": "hoor-store-8c045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763389861619:android:f66094818b30e2979b6186",
+        "android_client_info": {
+          "package_name": "com.hoorstore.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763389861619-nkgojhv2dhf416blqnhrj8fjdodj85lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoorstore.app",
+            "certificate_hash": "0706981274cd5442dea193f37884958bf55ac1c1"
+          }
+        },
+        {
+          "client_id": "763389861619-2ervp3ifsaqukmh1ribl777v9aqc26s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2I5fEDoQar-bD0I8XTRZ9R7UoIFZwUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763389861619-2ervp3ifsaqukmh1ribl777v9aqc26s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
